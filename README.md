@@ -1,16 +1,20 @@
-### Hi there 👋
+# Joshua Arulsamy - @jarulsamy
 
-<!--
-**jarulsamy/jarulsamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Josh, an energetic young professional, computer science student at the University of Wyoming, seeking a career that fits my professional skills, and personality. I love tinkering and learning anything related to computing.
 
-Here are some ideas to get you started:
+## My values
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:yellow_heart: Friends and family.
+
+:earth_americas: Exploring and learning new things.
+
+:book: Mentoring other coders.
+
+:guitar: Rock and roll.
+
+:bar_chart: **What I spent my time on this week:**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+Like what I do? Find more info about me on my personal [webpage](https://arulsamy.me).
