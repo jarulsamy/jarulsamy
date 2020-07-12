@@ -14,7 +14,9 @@ Hi there! I'm Josh, an energetic young professional, computer science student at
 
 :bar_chart: **What I spent my time on this week:**
 
+------
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+------
 
 Like what I do? Find more info about me on my personal [webpage](https://arulsamy.me).
