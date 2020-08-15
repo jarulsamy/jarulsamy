@@ -17,11 +17,11 @@ Hi there! I'm Josh, an energetic young professional, computer science student at
 ------
 <!--START_SECTION:waka-->
 ```text
-Python     5 hrs 23 mins   ███████████░░░░░░░░░░░░░░   46.73 % 
-Git        1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Markdown   1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Docker     1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Other      59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Python     6 hrs 50 mins   █████████████░░░░░░░░░░░░   52.06 % 
+Git        1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Docker     1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Markdown   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Other      1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
 ```
 <!--END_SECTION:waka-->
 ------
