@@ -17,11 +17,11 @@ Hi there! I'm Josh, an energetic young professional, computer science student at
 ------
 <!--START_SECTION:waka-->
 ```text
-C++      4 hrs 28 mins   ██████████████████▒░░░░░░   72.89 % 
-Python   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Bash     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-YAML     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Git      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+C++      1 hr 55 mins    █████████████░░░░░░░░░░░░   52.12 % 
+Python   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Bash     17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+YAML     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Git      15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 ```
 <!--END_SECTION:waka-->
 ------
