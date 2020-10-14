@@ -17,11 +17,11 @@ Hi there! I'm Josh, an energetic young professional, computer science student at
 ------
 <!--START_SECTION:waka-->
 ```text
-Common Lisp   5 hrs 13 mins   █████████████░░░░░░░░░░░░   51.64 % 
-Python        3 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.75 % 
-VimL          26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Markdown      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-YAML          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Common Lisp   3 hrs 46 mins   ███████████░░░░░░░░░░░░░░   43.53 % 
+Python        3 hrs           ████████▓░░░░░░░░░░░░░░░░   34.74 % 
+VimL          26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Markdown      19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+YAML          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 <!--END_SECTION:waka-->
 ------
