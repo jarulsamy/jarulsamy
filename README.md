@@ -17,11 +17,11 @@ Hi there! I'm Josh, an energetic young professional, computer science student at
 ------
 <!--START_SECTION:waka-->
 ```text
-Markdown   3 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   32.85 % 
-Bash       1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-VimL       1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Other      55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Python     52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Markdown   3 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.06 % 
+Bash       2 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Python     1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+VimL       1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Other      1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 ```
 <!--END_SECTION:waka-->
 ------
