@@ -16,6 +16,6 @@ Hi there! I'm Josh, an energetic young professional, computer science student at
 
 :bar_chart: **What I spent my time on this week:**
 
-![Josh's Waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshua&range=last_7_days&hide_title=true&bg_color=141321&api_domain=wakatime.arulsamy.me&layout=compact&theme=dracula)
+![Josh's Waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshua&hide_title=true&theme=dracula&bg_color=141321&api_domain=wakatime.arulsamy.me&layout=compact&range=last_30_days)
 
 Like what I do? Find more info about me on my personal [webpage](https://arulsamy.me).
