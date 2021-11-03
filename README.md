@@ -18,9 +18,9 @@ group, so I'm not as active here.
 
 :guitar: Rock and roll.
 
-:bar_chart: **What I spent my time on this month:**
+:bar_chart: **What I spent my time on this week:**
 
-![Josh's Waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshua&hide_title=true&theme=dracula&bg_color=141321&api_domain=wakatime.arulsamy.me&layout=compact&range=last_30_days)
+![Josh's Waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarulsamy&hide_title=true&theme=dracula&bg_color=141321&layout=compact)
 
 ## Contact
 
