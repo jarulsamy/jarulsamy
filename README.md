@@ -17,14 +17,3 @@ group, so I'm not as active here.
 :book: Mentoring other coders.
 
 :guitar: Rock and roll.
-
-:bar_chart: **What I spent my time on this week:**
-
-![Josh's Waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarulsamy&hide_title=true&theme=dracula&bg_color=141321&layout=compact)
-
-## Contact
-
-Interested in my work? Please don't hesitate to reach out to me for any reason.
-I'm most accessible over email.
-
-:email: [joshua.gf.arul@gmail.com](mailto:joshua.gf.arul@gmail.com)
